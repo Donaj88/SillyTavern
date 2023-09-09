@@ -9,6 +9,7 @@
     "tfs": 1,
     "rep_pen_slope": 0,
     "single_line": false,
+    "streaming_kobold": true,
     "sampler_order": [
         6,
         0,
@@ -17,5 +18,8 @@
         4,
         2,
         5
-    ]
+    ],
+    "can_use_streaming": true,
+    "genamt": 200,
+    "max_length": 4096
 }
